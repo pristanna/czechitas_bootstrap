@@ -8,8 +8,10 @@ I learnt how to create responsive websites using the Bootstrap framework.
 
 During the course I created a complex web page that adapts to the size of the browser, so it is usable on a mobile phone, tablet and computer.
 
-You can see a preview of the webpage [here](https://htmlpreview.github.io/?https://github.com/pristanna/czechitas_bootstrap/blob/main/Projekt/index.html#reference).
+You can see a preview of the webpage [here](https://htmlpreview.github.io/?https://github.com/pristanna/czechitas_bootstrap/blob/main/Projekt/index.html#).
 
-_(Preview provide by https://htmlpreview.github.io/ servis!)_
+**Please be patient, it takes a while to load the page with all CSS components...**
+
+_Preview provided by https://htmlpreview.github.io/ servis!_
 
 

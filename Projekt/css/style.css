@@ -1,0 +1,37 @@
+/* BOX MODEL - nastavíme intuitivnější box model (border-box) */
+html { box-sizing: border-box; }
+*, *:after, *:before { box-sizing: inherit; }
+
+.w-33 {
+    width: 33%;
+}
+
+
+h2, h3 {
+    font-style: italic;
+}
+
+h3 {
+    color: rgb(250, 4, 217);
+}
+
+.bg-pink {
+    background-color: rgb(250, 4, 217);
+}
+
+
+
+/*
+Bootstrap 4 breakpointy: 576px, 768px, 992px, 1200px
+xs: (max-width: 575px)
+sm: (min-width: 576px) and (max-width: 767px)
+md: (min-width: 768px) and (max-width: 991px)
+lg: (min-width: 992px) and (max-width: 1199px)
+xl: (min-width: 1200px)
+
+Barvy
+růžová: #c5308a
+světle šedá: #f0f0f0
+*/
+
+/* --- pod tuto čáru piš svoje CSS --------------------------------------- */
